@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "workbox-webpack-plugin": "^6.5.4"
+  }
+}
